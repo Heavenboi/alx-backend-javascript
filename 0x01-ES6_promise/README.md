@@ -1,7 +1,3 @@
-Sure, let's add some styling to the README to make it more visually appealing:
-
-markdown
-Copy code
 # Project: ES6 Promise Challenges
 
 ## Overview
@@ -26,7 +22,7 @@ Upon completing this project, you should be able to:
 
 - **Operating Environment**: Ubuntu 18.04 LTS with NodeJS 12.11.x
 - **Supported Editors**: vi, vim, emacs, Visual Studio Code
-- **Testing**: Jest for testing (run `npm run test`)
+- **Testing**: Jest for testing (run `npm run dev` filename)
 - **Linting**: Verify code against ESLint
 
 ---
